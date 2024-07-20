@@ -14,6 +14,9 @@ export default {
       },
       maxWidth: {
         maxWidth: '1232px'
+      },
+      boxShadow: {
+        custom_inner: 'inset 0 0 4px 2px rgb(0 0 0 / 0.05)', // Ombrage égal tout autour
       }
     },
   },
