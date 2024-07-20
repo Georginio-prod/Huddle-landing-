@@ -63,9 +63,9 @@ For the social icons, you can use a font icon library. Some suggestions can be f
 Huddle-landing-page/
 ├── public/
 │ ├── favicon-32x32.png
-│ ├── 
-│ ├── 
-│ ├── 
+│ ├── bg-hero-desktop.svg
+│ ├── color_logo_transparent copy.png
+│ ├── Group 41.svg
 │ ├── 
 │ ├── 
 │ └── 
@@ -81,7 +81,7 @@ Ce fichier README fournit une vue d'ensemble complète du projet, incluant la de
 
 
 # github link: 
-
+https://github.com/Georginio-prod/Huddle-landing-
 
 # vercel link:
 

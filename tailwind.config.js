@@ -6,11 +6,15 @@ export default {
       colors: {
         bac: '#EDFBFF',
         colorH2:'#00252E',
-        btn:'#FF52C1'
+        btn:'#FF52C1',
+        des:'#808E9A'
       },
       lineHeight: {
         '15': '60px', 
       },
+      maxWidth: {
+        maxWidth: '1232px'
+      }
     },
   },
   plugins: [],
