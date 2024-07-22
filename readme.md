@@ -85,6 +85,6 @@ Ce fichier README fournit une vue d'ensemble complète du projet, incluant la de
 https://github.com/Georginio-prod/Huddle-landing-
 
 # vercel link:
-
+https://huddle-landing-beryl.vercel.app/
 # frontend mentor 
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100
