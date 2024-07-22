@@ -7,7 +7,8 @@ export default {
         bac: '#EDFBFF',
         colorH2:'#00252E',
         btn:'#FF52C1',
-        des:'#808E9A'
+        des:'#808E9A',
+        
       },
       lineHeight: {
         '15': '60px', 

@@ -66,9 +66,10 @@ Huddle-landing-page/
 │ ├── bg-hero-desktop.svg
 │ ├── color_logo_transparent copy.png
 │ ├── Group 41.svg
-│ ├── 
-│ ├── 
-│ └── 
+│ ├── Group 21.png
+│ ├── Group 12.png
+│ └── Group 20.png
+  └── Group 34.png
 ├
 │ └── style.scss
 ├── index.html
@@ -86,3 +87,4 @@ https://github.com/Georginio-prod/Huddle-landing-
 # vercel link:
 
 # frontend mentor 
+https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100
